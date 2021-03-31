@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1592056099 source:d:\annie\schoolwork\javaas\108-2\pipeline0614\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+
